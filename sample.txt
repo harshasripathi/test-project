@@ -1,1 +1,1 @@
-merge conflict !  sample text in branch
+sample text in branch
