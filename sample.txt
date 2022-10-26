@@ -1,1 +1,2 @@
 sample text in branch
+some changes in newbranch2
